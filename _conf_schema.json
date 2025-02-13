@@ -1,0 +1,8 @@
+{
+    "token": {
+        "description": "token",
+        "type": "string",
+        "hint": "填入硅基流动key",
+        "obvious_hint": true
+    }
+}

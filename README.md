@@ -1,10 +1,11 @@
-# helloworld
+# Astrbot_Plugin_STT
 
-AstrBot 插件模板
+基于硅基流动FunAudioLLM/SenseVoiceSmall模型的语音识别插件
 
-A template plugin for AstrBot plugin feature
+需要配置apikey
 
-# 支持
+FunAudioLLM/SenseVoiceSmall模型是免费的，无需消耗Token
 
-[帮助文档](https://astrbot.soulter.top/center/docs/%E5%BC%80%E5%8F%91/%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91/
-)
+## 有什么好玩的想法可以来找我吖
+### 不会用也欢迎找我
+**（作者是初学者，欢迎大家提意见，反馈bug。）**
